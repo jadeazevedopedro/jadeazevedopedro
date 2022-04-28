@@ -1,13 +1,9 @@
-Olá ! Eu sou Jade 
-
--  🌱 Estudo Sistemas para Internet
--  ❤️ Fron-End
--  😄 Pronomes : Ela/Dela
+Oi, eu sou Jade estudante de Sistemas para Internet e apaixonada pelo mundo da tecnologia 👩‍💻
 
 <div align="center">
   <a href="https://github.com/jadeazevedopedro">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=jadeazevedopedro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="145cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadeazevedopedro&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=jadeazevedopedro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadeazevedopedro&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="Jade-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
