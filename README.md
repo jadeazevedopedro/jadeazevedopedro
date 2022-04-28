@@ -28,4 +28,4 @@ Olá ! Eu sou Jade
  
 </div>
   
-  ![Snake animation](https://github.com/jadeazevedopedro/jadeazevedopedro/blob/output/github-contribution-grid-snake.svg)
+
